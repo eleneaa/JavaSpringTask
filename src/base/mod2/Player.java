@@ -29,14 +29,26 @@ public class Player {
         VARIANTS p1 = player1.variant;
         VARIANTS p2 = player2.variant;
 
+        String p1_str = switch (p1) {
+            case VARIANTS.SCISSORS -> "scissors";
+            case VARIANTS.PAPER -> "paper";
+            case VARIANTS.ROCK -> "rock";
+        };
+
+        String p2_str = switch (p2) {
+            case VARIANTS.SCISSORS -> "scissors";
+            case VARIANTS.PAPER -> "paper";
+            case VARIANTS.ROCK -> "rock";
+        };
+
         if (p1 == p2) {
-            return "It's a draw!";
+            return "\nYour move: " + p2_str + "\nBot move: " + p1_str + "\n\n" + "It's a draw!";
         } else if ((p1 == VARIANTS.ROCK && p2 == VARIANTS.SCISSORS) ||
                 (p1 == VARIANTS.SCISSORS && p2 == VARIANTS.PAPER) ||
                 (p1 == VARIANTS.PAPER && p2 == VARIANTS.ROCK)) {
-            return player1.name + " wins!";
+            return "\nYour move: " + p2_str + "\nBot move: " + p1_str + "\n\n" + player1.name + " wins!";
         } else {
-            return player2.name + " wins!";
+            return "\nYour move: " + p2_str + "\nBot move: " + p1_str + "\n\n" + player2.name + " wins!";
         }
     }
 }
