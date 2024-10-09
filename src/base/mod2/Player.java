@@ -30,15 +30,15 @@ public class Player {
         VARIANTS p2 = player2.variant;
 
         String p1_str = switch (p1) {
-            case VARIANTS.SCISSORS -> "scissors";
-            case VARIANTS.PAPER -> "paper";
-            case VARIANTS.ROCK -> "rock";
+            case SCISSORS -> "scissors";
+            case PAPER -> "paper";
+            case ROCK -> "rock";
         };
 
         String p2_str = switch (p2) {
-            case VARIANTS.SCISSORS -> "scissors";
-            case VARIANTS.PAPER -> "paper";
-            case VARIANTS.ROCK -> "rock";
+            case SCISSORS -> "scissors";
+            case PAPER -> "paper";
+            case ROCK -> "rock";
         };
 
         if (p1 == p2) {
