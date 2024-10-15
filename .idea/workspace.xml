@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="add class Contact">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/resources/contacts.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSpringTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSpringTask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/mod2/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/mod2/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skillbox/mod1/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skillbox/mod1/ContactService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skillbox/mod1/ContactServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skillbox/mod1/ContactServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skillbox/mod1/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skillbox/mod1/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skillbox/mod1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skillbox/mod1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skillbox/mod1/ProfileInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skillbox/mod1/ProfileInitializer.java" afterDir="false" />
-    </list>
+    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="application done, but with error" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728463663341</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="application done, but with error">
+      <option name="closed" value="true" />
+      <created>1728468831063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728468831063</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +164,17 @@
     <MESSAGE value="fix" />
     <MESSAGE value="additions" />
     <MESSAGE value="add class Contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class Contact" />
+    <MESSAGE value="application done, but with error" />
+    <option name="LAST_COMMIT_MESSAGE" value="application done, but with error" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
