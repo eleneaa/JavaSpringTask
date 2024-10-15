@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="application done, but with error" />
+    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="application delete">
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ConsoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ContactFileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ContactServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/resources/default-contacts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Application.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.base.mod2.Main.executor": "Run",
     "Application.skillbox.mod1.Main.executor": "Run",
@@ -63,7 +75,20 @@
       <recent name="skillbox.mod1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.skillbox.mod1.Main">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="skillbox.mod1.Application" />
+      <module name="JavaSpringTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="skillbox.mod1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.mod1.Main" />
       <module name="JavaSpringTask" />
@@ -99,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.skillbox.mod1.Main" />
         <item itemvalue="Application.base.mod2.Main" />
         <item itemvalue="Application.Main" />
@@ -146,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728468831063</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="application delete">
+      <option name="closed" value="true" />
+      <created>1728979362727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728979362727</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,7 +199,8 @@
     <MESSAGE value="additions" />
     <MESSAGE value="add class Contact" />
     <MESSAGE value="application done, but with error" />
-    <option name="LAST_COMMIT_MESSAGE" value="application done, but with error" />
+    <MESSAGE value="application delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="application delete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -173,6 +208,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.IllegalArgumentException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
