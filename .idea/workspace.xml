@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="application delete">
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ConsoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ConsoleUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ContactFileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ContactService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/ContactServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skillbox/mod1/resources/default-contacts.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="skillbox mod1 save to file don`t work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728979362727</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="skillbox mod1 save to file don`t work">
+      <option name="closed" value="true" />
+      <created>1728985627976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728985627976</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +197,8 @@
     <MESSAGE value="add class Contact" />
     <MESSAGE value="application done, but with error" />
     <MESSAGE value="application delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="application delete" />
+    <MESSAGE value="skillbox mod1 save to file don`t work" />
+    <option name="LAST_COMMIT_MESSAGE" value="skillbox mod1 save to file don`t work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
