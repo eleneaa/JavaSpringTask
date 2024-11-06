@@ -1,4 +1,4 @@
-package skillbox.mod2.src.main.java.com.example.mod2.repository;
+package com.example.mod2.repository;
 
 import com.example.mod2.model.Student;
 import org.springframework.data.repository.CrudRepository;
@@ -13,5 +13,7 @@ public interface StudentRepository extends CrudRepository<Student, Long> {
 
     // Метод для получения списка всех студентов
     Iterable<Student> findAll();
+
+    void deleteAll();
 }
 
