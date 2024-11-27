@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="skillbox mod2 docker">
+    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="skillbox mod3 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,28 +47,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.base.mod2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.skillbox.mod1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Пользователь/IdeaProjects/JavaSpringTask/JavaSpringTask/src/skillbox&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Пользователь/IdeaProjects/JavaSpringTask/JavaSpringTask/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.base.mod2.Main.executor": "Run",
+    "Application.skillbox.mod1.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Пользователь/IdeaProjects/mod3",
+    "onboarding.tips.debug.path": "C:/Users/Пользователь/IdeaProjects/JavaSpringTask/JavaSpringTask/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="skillbox.mod1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Пользователь\IdeaProjects\JavaSpringTask\JavaSpringTask\src\skillbox\" />
       <recent name="C:\Users\Пользователь\IdeaProjects\JavaSpringTask\JavaSpringTask\src\skillbox" />
+      <recent name="C:\Users\Пользователь\IdeaProjects\JavaSpringTask\JavaSpringTask\src\skillbox\" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Application">
@@ -200,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730895939315</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="skillbox mod3 done">
+      <option name="closed" value="true" />
+      <created>1731953412151</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731953412151</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +231,8 @@
     <MESSAGE value="skillbox mod1 save to file don`t work" />
     <MESSAGE value="skillbox mod2 classes and interface add" />
     <MESSAGE value="skillbox mod2 docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="skillbox mod2 docker" />
+    <MESSAGE value="skillbox mod3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="skillbox mod3 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
