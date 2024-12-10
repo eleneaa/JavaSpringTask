@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="skillbox mod4 done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0441a2ae-89ad-40df-aa6b-86845c4f4348" name="Changes" comment="skillbox mod5 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +55,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Пользователь/IdeaProjects/book-rest-master",
+    "last_opened_file_path": "C:/Users/Пользователь/IdeaProjects/JavaSpringTask/JavaSpringTask/src/skillbox",
     "onboarding.tips.debug.path": "C:/Users/Пользователь/IdeaProjects/JavaSpringTask/JavaSpringTask/src/Main.java",
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
@@ -216,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732708415910</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="skillbox mod5 done">
+      <option name="closed" value="true" />
+      <created>1732790001102</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732790001103</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +247,8 @@
     <MESSAGE value="skillbox mod2 docker" />
     <MESSAGE value="skillbox mod3 done" />
     <MESSAGE value="skillbox mod4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="skillbox mod4 done" />
+    <MESSAGE value="skillbox mod5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="skillbox mod5 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
